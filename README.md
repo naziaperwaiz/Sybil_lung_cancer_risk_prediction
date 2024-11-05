@@ -10,7 +10,7 @@ Visualization of model results:
 
 ==> ![Model's Heatmap for single slice of LDCT](attention_map.png)
 
-==> ![Model's Attention in LDCT-Volume](main/ldct_risk_prediction.gif)
+==> ![Model's Attention in LDCT-Volume](ldct_risk_prediction.gif)
 
 # Run a regression test
 
