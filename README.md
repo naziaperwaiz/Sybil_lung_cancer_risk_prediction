@@ -11,7 +11,8 @@ Additional documentation can be found on the [GitHub Wiki](https://github.com/re
 1. Model's Heatmap of a single slice of LDCT:
 ![Model's Heatmap for single slice of LDCT](attention_map.png)
 
-2. Model's Attention in LDCT Volume
+
+3. Model's Attention in LDCT Volume
 ![Model's Attention in LDCT-Volume](ldct_risk_prediction.gif)
 
 # Run a regression test
