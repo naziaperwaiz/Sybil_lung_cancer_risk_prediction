@@ -8,9 +8,9 @@ Additional documentation can be found on the [GitHub Wiki](https://github.com/re
 
 Visualization of model results: 
 
-==> [Model's Attention in LDCT-Volume](https://github.com/naziaperwaiz/Sybil_lung_cancer_risk_prediction/blob/main/ldct_risk_prediction.gif)
+==> ![Model's Heatmap for single slice of LDCT](https://github.com/naziaperwaiz/Sybil_lung_cancer_risk_prediction/blob/main/attention_map.png)
 
-==> [Model's Heatmap for single slice of LDCT](https://github.com/naziaperwaiz/Sybil_lung_cancer_risk_prediction/blob/main/attention_map.png)
+==> ![Model's Attention in LDCT-Volume](https://github.com/naziaperwaiz/Sybil_lung_cancer_risk_prediction/blob/main/ldct_risk_prediction.gif)
 
 # Run a regression test
 
