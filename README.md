@@ -6,6 +6,11 @@ Lung Cancer Risk Prediction.
 
 Additional documentation can be found on the [GitHub Wiki](https://github.com/reginabarzilaygroup/Sybil/wiki).
 
+Visualization of model results: 
+
+[Attention in LDCT-Volume](https://github.com/naziaperwaiz/Sybil_lung_cancer_risk_prediction/blob/main/ldct_risk_prediction.gif)
+[Heatmap of LDCT Slice](https://github.com/naziaperwaiz/Sybil_lung_cancer_risk_prediction/blob/main/attention_map.png)
+
 # Run a regression test
 
 ```shell
