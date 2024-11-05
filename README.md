@@ -137,3 +137,17 @@ National Lung Screening Trial Research Team. (2013). Data from the National Lung
   publisher={Wolters Kluwer Health}
 }
 ```
+
+```
+@article {Zakkar2024.10.07.24315011,
+	author = {Zakkar, Abdul J. and Perwaiz, Nazia and Zhong, Weiheng and Krule, Alex and Burrage-Burton, Mason and Kim, Daniel and Miglani, Mehak and Narra, Vijeth and Yousef, Farah and Gadi, V.K. and Korpics, Mark C. and Kim, Sage J. and Khan, Aly A. and Molina, Yamil{\'e} and Dai, Yang and Marai, G. Elisabeta and Meidani, Hadi and Nguyen, Ryan H. and Salahudeen, Ameen A.},
+	title = {A hybrid-computer vision model to predict lung cancer in diverse patient populations},
+	elocation-id = {2024.10.07.24315011},
+	year = {2024},
+	doi = {10.1101/2024.10.07.24315011},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	URL = {https://www.medrxiv.org/content/early/2024/10/07/2024.10.07.24315011},
+	eprint = {https://www.medrxiv.org/content/early/2024/10/07/2024.10.07.24315011.full.pdf},
+	journal = {medRxiv}
+}
+```
