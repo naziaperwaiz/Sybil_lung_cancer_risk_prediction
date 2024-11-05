@@ -6,7 +6,7 @@ Lung Cancer Risk Prediction.
 
 Additional documentation can be found on the [GitHub Wiki](https://github.com/reginabarzilaygroup/Sybil/wiki).
 
-#Visualization of model results: 
+# Visualization of model's output: 
 
 ![Model's Heatmap for single slice of LDCT](attention_map.png)
 
